@@ -1,0 +1,5 @@
+Clause 9.1 (Confidentiality): Each party shall keep confidential all information received from the other party which is marked or reasonably understood to be confidential, and shall not disclose such information to any third party except as required by law.
+
+Clause 9.2 (Data Security): The receiving party shall implement appropriate technical and organizational measures to protect the confidentiality, integrity, and availability of the disclosing party’s data.
+
+Clause 10.2 (Limitation of Liability): Except for gross negligence, willful misconduct, or breach of confidentiality, neither party shall be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to this Agreement.
